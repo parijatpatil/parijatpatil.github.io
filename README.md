@@ -1,2 +1,2 @@
-# parijatpatil@github.io
+# parijatpatil.github.io
 Resume
